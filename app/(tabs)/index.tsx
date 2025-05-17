@@ -12,6 +12,8 @@ export default function TabOneScreen() {
     </View>
   );
 }
+// /Applications/Android Studio.app/Contents/jbr/Contents/Home
+// /Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home
 
 const styles = StyleSheet.create({
   container: {
